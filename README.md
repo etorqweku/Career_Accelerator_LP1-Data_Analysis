@@ -7,7 +7,7 @@ The purpose of this project is to gather facts before venturing into the Indian 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | Data Analysis |  [Indian Start-up Funding Analysis](/https://www.linkedin.com/pulse/indian-startup-funding-exploratory-data-analysis-eda-2018-2021-aryee) | [Indian Start-up Funding Analysis](/https://github.com/etorqweku/Career_Accelerator_LP1-Data_Analysis.git) |
+| LP1 | Data Analysis |  [Indian Start-up Funding Analysis](https://www.linkedin.com/pulse/indian-startup-funding-exploratory-data-analysis-eda-2018-2021-aryee) | [Indian Start-up Funding Analysis](/https://github.com/etorqweku/Career_Accelerator_LP1-Data_Analysis.git) |
 
 
 ## Project Description
